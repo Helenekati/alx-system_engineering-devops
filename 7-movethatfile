@@ -1,2 +1,2 @@
-[master 6f5e147] Task 7
- 1 file changed, 1 deletion(-)
+#!/bin/bash
+mv /tmp/betty/tmp/my_first_directory
